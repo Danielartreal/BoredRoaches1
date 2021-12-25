@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x89744B855352E1044b18A4fcf944e2BE29F8da95",
+  "SCAN_LINK": "https://polygonscan.com/token/0x89744b855352e1044b18a4fcf944e2be29f8da95",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BoredRoaches",
+  "SYMBOL": "BRS",
+  "MAX_SUPPLY": 11111,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/boredroaches",
+  "SHOW_BACKGROUND": true
+}
